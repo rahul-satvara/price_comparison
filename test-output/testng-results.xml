@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="238425" started-at="2016-02-03T07:08:10Z" finished-at="2016-02-03T07:12:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="238425" started-at="2016-02-03T07:08:10Z" finished-at="2016-02-03T07:12:08Z">
+      <class name="com.pack.one.Bigbasket">
+        <test-method status="PASS" signature="login()[pri:0, instance:com.pack.one.Bigbasket@e369b7]" name="login" duration-ms="238400" started-at="2016-02-03T12:38:10Z" finished-at="2016-02-03T12:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.pack.one.Bigbasket -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
